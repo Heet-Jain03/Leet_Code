@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     bool isAnagram(string s, string t) {
@@ -20,4 +21,18 @@ public:
     }
 };
 
+*/
 
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+map<char, int> mps, mpt;
+for(auto it : s){
+    mps[it]++;
+}
+for(auto it : t){
+    mpt[it]++;
+}
+return mps == mpt;
+    }
+};
