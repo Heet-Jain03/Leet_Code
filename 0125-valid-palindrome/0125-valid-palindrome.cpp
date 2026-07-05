@@ -7,9 +7,6 @@ public:
             clean += tolower(it);
         }
     }
-    if(s.empty()){
-        return true;
-       }
     string rev = clean;
     reverse(rev.begin(), rev.end());
     return clean == rev;
