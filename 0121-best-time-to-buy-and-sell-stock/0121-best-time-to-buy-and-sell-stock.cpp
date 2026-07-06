@@ -5,7 +5,7 @@ public:
         int high = INT_MIN;
         for(auto it : prices){
             int sell = it;
-            low = min(low, it);
+            low = min(low, sell);
             int buy = sell - low;
             high = max(high, buy);
         }
