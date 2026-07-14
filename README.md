@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Heet-Jain03/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Heet-Jain03/Leet_Code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Heet-Jain03/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Heet-Jain03/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Heet-Jain03/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Heet-Jain03/Leet_Code/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
