@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Heet-Jain03/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Heet-Jain03/Leet_Code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Heet-Jain03/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Heet-Jain03/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Heet-Jain03/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Heet-Jain03/Leet_Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Heet-Jain03/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Heet-Jain03/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Heet-Jain03/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Heet-Jain03/Leet_Code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Heet-Jain03/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
@@ -89,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Heet-Jain03/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Heet-Jain03/Leet_Code/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
