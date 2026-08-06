@@ -6,10 +6,10 @@ public:
             if(s[i] != ' '){
                 count++;
             }
-            else if(count > 0) {
+            else if(count > 0){
                 break;
             }
         }
         return count;
-        }
+    }
 };
