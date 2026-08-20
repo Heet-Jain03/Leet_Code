@@ -6,11 +6,11 @@ public:
         for(auto it : nums){
             if(it == 1){
                 count++;
-                maxi = max(count, maxi);
+                maxi = max(maxi, count);
             }
             else{
                 count = 0;
-            } 
+            }
         }
         return maxi;
     }
