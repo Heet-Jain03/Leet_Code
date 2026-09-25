@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Heet-Jain03/Leet_Code/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
