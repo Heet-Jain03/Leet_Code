@@ -1,5 +1,7 @@
 class Solution:
     def intersection(self, nums1: list[int], nums2: list[int]) -> list[int]:
+        return list(set(nums1) & set(nums2))
+        """
         seen = set()
         result = set()
         for num in nums1:
@@ -11,5 +13,5 @@ class Solution:
             if num in seen:
                 result.add(num)
         return list(result)
-
+"""
 
