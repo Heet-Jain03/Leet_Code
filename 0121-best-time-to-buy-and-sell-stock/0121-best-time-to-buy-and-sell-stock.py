@@ -5,8 +5,6 @@ class Solution:
         for nums in prices:
             mini = min(nums, mini)
             prof = nums - mini
-            maxi = max(maxi, prof)
-
+            maxi = max(prof, maxi)
         return maxi
-
         
