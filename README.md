@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Heet-Jain03/Leet_Code/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Heet-Jain03/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Heet-Jain03/Leet_Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Heet-Jain03/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
