@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Heet-Jain03/Leet_Code/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
