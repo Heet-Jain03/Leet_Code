@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Heet-Jain03/Leet_Code/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Heet-Jain03/Leet_Code/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Heet-Jain03/Leet_Code/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Heet-Jain03/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Heet-Jain03/Leet_Code/tree/master/0905-sort-array-by-parity) |
 ## Trie
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Heet-Jain03/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Heet-Jain03/Leet_Code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Heet-Jain03/Leet_Code/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Heet-Jain03/Leet_Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
