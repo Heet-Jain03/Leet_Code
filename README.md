@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Heet-Jain03/Leet_Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Heet-Jain03/Leet_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Heet-Jain03/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Heet-Jain03/Leet_Code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Heet-Jain03/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Heet-Jain03/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Heet-Jain03/Leet_Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
