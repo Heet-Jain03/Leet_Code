@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Heet-Jain03/Leet_Code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Heet-Jain03/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Heet-Jain03/Leet_Code/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Heet-Jain03/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Heet-Jain03/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Heet-Jain03/Leet_Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Heet-Jain03/Leet_Code/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Heet-Jain03/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Heet-Jain03/Leet_Code/tree/master/0268-missing-number) |
