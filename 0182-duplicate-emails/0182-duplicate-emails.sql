@@ -3,6 +3,6 @@
 
 SELECT 
 Email 
-FROM Person 
+FROM person 
 group by email 
 having count(email) > 1
