@@ -4,5 +4,5 @@
 SELECT 
 Email 
 FROM person 
-group by email 
+group by email
 having count(email) > 1
